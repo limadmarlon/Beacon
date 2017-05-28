@@ -1,4 +1,4 @@
-update=Wednesday, May 24, 2017 'PMt' 08:58:28 PM
+update=Domingo, 28 '28e' Maio '28e' 2017 12:27:13
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=lib/nrf51822
+LibName31=lib/BALF-NRF01E3

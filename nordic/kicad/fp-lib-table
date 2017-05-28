@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name BALF-NRF01E3)(type Legacy)(uri "$(KIPRJMOD)/lib/BALF-NRF01E3.mod")(options "")(descr ""))
+)
