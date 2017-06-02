@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/limadmarlon/Documents/nordic/kicad/nrf51822.sch)
-    (date "Sunday, May 28, 2017 'PMt' 06:52:16 PM")
+    (date "Thursday, June 01, 2017 'PMt' 10:47:17 PM")
     (tool "Eeschema 4.0.5")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -232,10 +232,10 @@
         (pin (num 47) (name P0.28) (type input))
         (pin (num 48) (name P0.29) (type input)))))
   (libraries
-    (library (logical device)
-      (uri "/Library/Application Support/kicad/library/device.lib"))
     (library (logical conn)
       (uri "/Library/Application Support/kicad/library/conn.lib"))
+    (library (logical device)
+      (uri "/Library/Application Support/kicad/library/device.lib"))
     (library (logical nrf51822)
       (uri /Users/limadmarlon/Documents/nordic/kicad/lib/nrf51822.lib))
     (library (logical BALF-NRF01E3)
