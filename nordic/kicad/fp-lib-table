@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name BALF-NRF01E3)(type Legacy)(uri "$(KIPRJMOD)/lib/BALF-NRF01E3.mod")(options "")(descr ""))
+  (lib (name Mounting_Holes)(type Github)(uri https://github.com/KiCad/Mounting_Holes.pretty)(options "")(descr ""))
+  (lib (name Pin-Beacon)(type KiCad)(uri "$(KIPRJMOD).pretty")(options "")(descr ""))
 )
