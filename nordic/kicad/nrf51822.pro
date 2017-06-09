@@ -1,4 +1,4 @@
-update=Domingo, 28 '28e' Maio '28e' 2017 12:27:13
+update=08/06/2017 14:14:18
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=lib/nrf51822
 LibName31=lib/BALF-NRF01E3
+LibName32=switches
