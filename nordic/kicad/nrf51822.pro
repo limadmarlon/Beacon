@@ -1,4 +1,4 @@
-update=08/06/2017 14:14:18
+update=2017 June 22, Thursday 11:45:32
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=valves
 LibName30=lib/nrf51822
 LibName31=lib/BALF-NRF01E3
 LibName32=switches
+LibName33=/Users/felipecrispim/Downloads/kicad-ESP8266-master/ESP8266
