@@ -1,14 +1,14 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.5)
+(kicad_pcb (version 4) (host pcbnew 4.0.6)
 
   (general
-    (links 39)
+    (links 0)
     (no_connects 6)
     (area 70.192857 106.607258 141.850002 144.828858)
     (thickness 1.6)
     (drawings 7)
     (tracks 156)
     (zones 0)
-    (modules 20)
+    (modules 21)
     (nets 47)
   )
 
@@ -1072,6 +1072,24 @@
       (xy -0.277591 -1.320671) (xy -0.212115 -1.361561) (xy -0.142542 -1.392286) (xy -0.124239 -1.398454)
       (xy -0.106749 -1.403466) (xy -0.08962 -1.40693) (xy -0.070194 -1.409115) (xy -0.045816 -1.41029)
       (xy -0.013828 -1.410723) (xy -0.002761 -1.410749) (xy 0.043214 -1.409815)) (layer F.SilkS) (width 0.01))
+  )
+
+  (module Pin-Beacon:Antenna (layer F.Cu) (tedit 0) (tstamp 5978B39F)
+    (at 118.54 122.11)
+    (fp_text reference A* (at 0 0) (layer F.SilkS) hide
+      (effects (font (thickness 0.3)))
+    )
+    (fp_text value Antenna (at 0.75 0) (layer F.SilkS) hide
+      (effects (font (thickness 0.3)))
+    )
+    (fp_poly (pts (xy 2.878667 -4.318) (xy 0.254 -4.318) (xy 0.254 -2.370666) (xy 2.878667 -2.370666)
+      (xy 2.878667 0.338667) (xy 0.254 0.338667) (xy 0.254 2.286) (xy 2.878667 2.286)
+      (xy 2.878667 7.366) (xy -2.624667 7.366) (xy -2.624667 6.434667) (xy 2.286 6.434667)
+      (xy 2.286 5.08) (xy -2.54 5.08) (xy -2.54 4.487334) (xy 2.286 4.487334)
+      (xy 2.286 2.878667) (xy -0.338667 2.878667) (xy -0.338667 -0.169333) (xy 2.286 -0.169333)
+      (xy 2.286 -1.862666) (xy -0.338667 -1.862666) (xy -0.338667 -4.910666) (xy 2.286 -4.910666)
+      (xy 2.286 -6.519333) (xy -1.608667 -6.519333) (xy -1.608667 -7.112) (xy 2.878667 -7.112)
+      (xy 2.878667 -4.318)) (layer F.SilkS) (width 0.01))
   )
 
   (gr_text GND (at 83.82 118.364) (layer F.SilkS) (tstamp 59641C0C)

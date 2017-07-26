@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="Antenna.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="200.32433"
+     inkscape:cy="502.21472"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1133"
+     inkscape:window-height="694"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect4605"
+       width="7.9847469"
+       height="16.914434"
+       x="55.987724"
+       y="155.68414"
+       style="stroke-width:0.26458332;fill:#ffffff;fill-opacity:1" />
+    <g
+       id="g3794"
+       transform="matrix(0,-1,-1,0,224.39286,224.39286)">
+      <rect
+         style="stroke-width:0.0642269"
+         y="162.07619"
+         x="52.916664"
+         height="4.9000001"
+         width="0.89999998"
+         id="rect3680" />
+      <rect
+         style="stroke-width:0.19185282"
+         y="161.57619"
+         x="52.916664"
+         height="0.5"
+         width="5"
+         id="rect3682" />
+      <rect
+         style="stroke-width:0.26458332"
+         y="162.0625"
+         x="55.208149"
+         height="4.9000001"
+         width="0.5"
+         id="rect3689" />
+      <rect
+         style="stroke-width:0.26458332"
+         y="162.07619"
+         x="57.416664"
+         height="2.6400001"
+         width="0.5"
+         id="rect3693" />
+      <rect
+         style="stroke-width:0.26458332"
+         y="164.21619"
+         x="57.916664"
+         height="0.5"
+         width="2"
+         id="rect3697" />
+      <rect
+         style="stroke-width:0.26458332"
+         y="162.07619"
+         x="59.916664"
+         height="2.6400001"
+         width="0.5"
+         id="rect3693-8" />
+      <rect
+         style="stroke-width:0.26458332"
+         y="161.57619"
+         x="59.916664"
+         height="0.5"
+         width="2.7"
+         id="rect3714" />
+      <rect
+         style="stroke-width:0.26458332"
+         y="162.07619"
+         x="62.116665"
+         height="2.6400001"
+         width="0.5"
+         id="rect3693-8-6" />
+      <a
+         id="a3778">
+        <rect
+           id="rect3697-1"
+           width="2"
+           height="0.5"
+           x="62.616665"
+           y="164.21619"
+           style="stroke-width:0.26458332" />
+      </a>
+      <rect
+         style="stroke-width:0.26458332"
+         y="162.07619"
+         x="64.616669"
+         height="2.6400001"
+         width="0.5"
+         id="rect3693-8-7" />
+      <rect
+         style="stroke-width:0.26458332"
+         y="161.57619"
+         x="64.616669"
+         height="0.5"
+         width="2.7"
+         id="rect3714-3" />
+      <rect
+         style="stroke-width:0.26458332"
+         y="162.07619"
+         x="66.816666"
+         height="3.9400001"
+         width="0.5"
+         id="rect3776" />
+    </g>
+  </g>
+</svg>
